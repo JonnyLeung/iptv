@@ -16,3 +16,4 @@ TVB-J2,http://141.95.85.201:6666/livehttpplay?channel_id=20122&fbl=$GWXL
 TVB-星河,http://141.95.85.201:6666/livehttpplay?channel_id=20070&fbl=$GWXL
 珠海-1,https://publive.zhrct.com/zhtv1/zhtv1.m3u8?auth_key=1697183630-0-0-237458bc86c8bc697f92b9525a090953
 广东卫视,http://103.108.67.142:909/猎狼TV吧/PLTV/组播/广东.php?id=239.77.0.84:5146
+CCTV13-央视新闻频道,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
