@@ -1,5 +1,6 @@
 广东珠江频道,http://103.108.67.142:909/猎狼TV吧/PLTV/组播/广东.php?id=239.77.0.114:5146
 TVB-翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$GWXL
+TVB-翡翠台,http://r.jdshipin.com/qClQf
 TVB-翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=$GWXL
 TVB-明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$GWXL
 TVB-明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=30026&fbl=$GWXL
@@ -15,6 +16,7 @@ TVB-星河台,http://141.95.85.201:6666/livehttpplay?channel_id=20070&fbl=$GWXL
 凤凰中文,http://141.95.85.201:6666/livehttpplay?channel_id=20065&fbl=$GWXL
 凤凰资讯,http://141.95.85.201:6666/livehttpplay?channel_id=30015&fbl=$GWXL
 凤凰资讯,http://141.95.85.201:6666/livehttpplay?channel_id=20066&fbl=$GWXL
+NHK-WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 珠海-1,https://publive.zhrct.com/zhtv1/zhtv1.m3u8?auth_key=1697183630-0-0-237458bc86c8bc697f92b9525a090953
 广东卫视,http://103.108.67.142:909/猎狼TV吧/PLTV/组播/广东.php?id=239.77.0.84:5146
 CCTV3-央视综艺频道,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
